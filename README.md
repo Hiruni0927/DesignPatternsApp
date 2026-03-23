@@ -11,12 +11,3 @@
 📤 Output : Alice received: New Video Uploaded! , Bob received: New Video Uploaded!
 
 👨‍💻 Author : H.S. Kumarasinghe
-
-🏗️ Project Structure
-DesignPatternsApp/
-│
-├── Observer.java
-├── User.java
-├── Channel.java
-├── UserFactory.java
-└── Main.java
